@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'am Melih</h1>
 <h3 align="center">Front-End Developer from Istanbul/Turkey</h3>
 
-- 📫 How do you reach me? **mlhdzdr@gmail.com**
+- 📫 How can you contact me? **mlhdzdr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
