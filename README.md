@@ -1,9 +1,9 @@
-<h1 align="center">Hi I'am Melih</h1>
+<h1 align="center">Hi, I'am Melih</h1>
 <h3 align="center">Front-End Developer from Istanbul/Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melihdizdar&label=Profile%20views&color=0e75b6&style=flat" alt="melihdizdar" /> </p>
 
-- 📫 How to contact me? **mlhdzdr@gmail.com**
+- 📫 How can you contact me? **mlhdzdr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
